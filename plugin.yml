@@ -1,0 +1,9 @@
+main: net.novauniverse.playeraccountlibdemo.PlayerAccountLibDemo
+name: PlayerAccountLibDemo
+description: Showcasing player account lib
+version: 1.0.0
+api-version: 1.13
+
+authors: [Zeeraa, NovaUniverse]
+
+depend: [PlayerAccountLib]
